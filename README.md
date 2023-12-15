@@ -20,30 +20,7 @@
 - Efeitos sonoros para colisões e possivelmente música de fundo.
 - A dificuldade aumenta com o tempo, oferecendo um desafio crescente.
 
-## Pré-requisitos
 
-- [Inclua qualquer pré-requisito necessário para executar o jogo]
 
-## Instalação
 
-[Instruções para instalar o jogo]
-
-## Execução
-
-[Instruções para iniciar o jogo]
-
-## Controles
-
-- [Descreva os controles do jogo]
-
-## Contribuição
-
-[Instruções para contribuir para o projeto, se aplicável]
-
-## Licença
-
-Este projeto é licenciado sob a [Sua Licença aqui].
-
----
-Desenvolvido por [Seu Nome/Autor] - [Seu Contato]
 
